@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Navbar from "./components/navbar/Navbar";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
 import Products from "./components/products/products";
 import Whyus from "./components/whyus/Whyus";
 import ReviewSection from "./components/review/ReviewSection";
